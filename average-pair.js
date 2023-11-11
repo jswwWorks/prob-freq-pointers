@@ -1,3 +1,5 @@
+"use strict";
+
 /**
  * Input an sorted array of numbers and a target number,
  * return true or false based on whether there is a pair of numbers in the array
